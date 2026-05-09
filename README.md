@@ -5,7 +5,7 @@ A premium, minimalist, and browser-side image compression tool built for speed a
 
 
 ## 🚀 Live Demo
-[PASTE_YOUR_GITHUB_PAGES_LINK_HERE]
+[https://bentoarchitect-studio.github.io/image-pro-tool/]
 
 ## ✨ Features
 - **Privacy First:** No images are uploaded to any server. All processing happens in your browser.
