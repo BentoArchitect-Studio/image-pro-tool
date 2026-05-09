@@ -20,7 +20,7 @@ A premium, minimalist, and browser-side image compression tool built for speed a
 
 ## 💰 Purchase & Support
 Get the full source code or support the studio on Gumroad:
-[https://bentoarchitect.gumroad.com](https://bentoarchitect.gumroad.com)
+[https://bentoarchitect.gumroad.com/l/image-pro-tool)
 
 ---
 Developed by **BentoArchitect Studio**
