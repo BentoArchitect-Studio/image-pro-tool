@@ -1,6 +1,9 @@
 # BentoArchitect - Image Pro Tool
 A premium, minimalist, and browser-side image compression tool built for speed and privacy.
 
+![Image Pro Tool Screenshot]({FE82F293-2105-43E7-BABD-047BDBAFB864})
+
+
 ## 🚀 Live Demo
 [PASTE_YOUR_GITHUB_PAGES_LINK_HERE]
 
