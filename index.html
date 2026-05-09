@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ImagePro - Premium Compression Tool</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Component -->
+    <header class="studio-header">
+        <div class="logo">BentoArchitect<span>Studio</span></div>
+        <nav>
+            <a href="#">Products</a>
+            <a href="https://bentoarchitect.gumroad.com" target="_blank">Support</a>
+        </nav>
+    </header>
+
+    <main class="app-container">
+        <!-- Hero Section -->
+        <section class="hero-section">
+            <h1>Professional Image Compression</h1>
+            <p>Fast, Private, & Zero Quality Loss.</p>
+        </section>
+
+        <!-- Main Tool Component -->
+        <div class="tool-grid">
+            <div id="drop-zone" class="bento-card">
+                <div id="upload-content">
+                    <p>Drag & Drop Image or Click to Upload</p>
+                    <input type="file" id="file-input" hidden accept="image/*">
+                </div>
+                <!-- Result Section (Initially Hidden) -->
+                <div id="result-content" style="display: none;">
+                    <h3 style="color: #007aff; margin-bottom: 15px;">✓ Compression Complete</h3>
+                    <div class="stats-container">
+    <p>Original Size <span id="old-size">0.00</span></p>
+    <p>Compressed Size <span id="new-size">0.00</span></p>
+</div>
+                    <a href="#" id="download-link" class="download-btn" style="margin-top: 20px;">Download Image</a>
+                    <button id="reset-btn" style="display: block; margin: 20px auto; background: none; border: none; color: #a0a0a0; cursor: pointer; text-decoration: underline;">Upload Another</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
